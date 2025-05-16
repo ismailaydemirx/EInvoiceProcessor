@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Envelope>
+  <Sender>1234567890</Sender>
+  <Receiver>0987654321</Receiver>
+  <InvoicesList>
+    <Invoice>
+      <UUID>304c467a-db39-48a5-9cac-54d2848c0be3</UUID>
+      <FileName>Invoice1.xml</FileName>
+      <FilePath>Invoices\Invoice1.xml</FilePath>
+    </Invoice>
+    <Invoice>
+      <UUID>43b4c103-74f5-4ef3-9832-d0a3eb8b2694</UUID>
+      <FileName>Invoice2.xml</FileName>
+      <FilePath>Invoices\Invoice2.xml</FilePath>
+    </Invoice>
+  </InvoicesList>
+</Envelope>
