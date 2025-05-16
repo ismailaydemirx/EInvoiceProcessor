@@ -7,16 +7,8 @@
       "RelativeMoniker": "D:0:0:{A503DC9C-D2FB-4DFA-8249-A1735BE40C3D}|EInvoiceProcessor\\EInvoiceProcessor.csproj|solutionrelative:einvoiceprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A503DC9C-D2FB-4DFA-8249-A1735BE40C3D}|EInvoiceProcessor\\EInvoiceProcessor.csproj|d:\\github desktop\\repositories\\einvoiceprocessor\\einvoiceprocessor\\envelope\\envelopebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A503DC9C-D2FB-4DFA-8249-A1735BE40C3D}|EInvoiceProcessor\\EInvoiceProcessor.csproj|solutionrelative:einvoiceprocessor\\envelope\\envelopebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github Desktop\\Repositories\\EInvoiceProcessor\\EInvoiceProcessor\\bin\\Debug\\net9.0\\envelope.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EInvoiceProcessor\\bin\\Debug\\net9.0\\envelope.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A503DC9C-D2FB-4DFA-8249-A1735BE40C3D}|EInvoiceProcessor\\EInvoiceProcessor.csproj|d:\\github desktop\\repositories\\einvoiceprocessor\\einvoiceprocessor\\models\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A503DC9C-D2FB-4DFA-8249-A1735BE40C3D}|EInvoiceProcessor\\EInvoiceProcessor.csproj|solutionrelative:einvoiceprocessor\\models\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A503DC9C-D2FB-4DFA-8249-A1735BE40C3D}|EInvoiceProcessor\\EInvoiceProcessor.csproj|d:\\github desktop\\repositories\\einvoiceprocessor\\einvoiceprocessor\\invoicefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A503DC9C-D2FB-4DFA-8249-A1735BE40C3D}|EInvoiceProcessor\\EInvoiceProcessor.csproj|solutionrelative:einvoiceprocessor\\invoicefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,41 +50,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "envelope.xml",
-              "DocumentMoniker": "D:\\Github Desktop\\Repositories\\EInvoiceProcessor\\EInvoiceProcessor\\bin\\Debug\\net9.0\\envelope.xml",
-              "RelativeDocumentMoniker": "EInvoiceProcessor\\bin\\Debug\\net9.0\\envelope.xml",
-              "ToolTip": "D:\\Github Desktop\\Repositories\\EInvoiceProcessor\\EInvoiceProcessor\\bin\\Debug\\net9.0\\envelope.xml",
-              "RelativeToolTip": "EInvoiceProcessor\\bin\\Debug\\net9.0\\envelope.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-05-16T11:42:12.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EnvelopeBuilder.cs",
-              "DocumentMoniker": "D:\\Github Desktop\\Repositories\\EInvoiceProcessor\\EInvoiceProcessor\\Envelope\\EnvelopeBuilder.cs",
-              "RelativeDocumentMoniker": "EInvoiceProcessor\\Envelope\\EnvelopeBuilder.cs",
-              "ToolTip": "D:\\Github Desktop\\Repositories\\EInvoiceProcessor\\EInvoiceProcessor\\Envelope\\EnvelopeBuilder.cs",
-              "RelativeToolTip": "EInvoiceProcessor\\Envelope\\EnvelopeBuilder.cs",
+              "Title": "InvoiceFilter.cs",
+              "DocumentMoniker": "D:\\Github Desktop\\Repositories\\EInvoiceProcessor\\EInvoiceProcessor\\InvoiceFilter.cs",
+              "RelativeDocumentMoniker": "EInvoiceProcessor\\InvoiceFilter.cs",
+              "ToolTip": "D:\\Github Desktop\\Repositories\\EInvoiceProcessor\\EInvoiceProcessor\\InvoiceFilter.cs",
+              "RelativeToolTip": "EInvoiceProcessor\\InvoiceFilter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T11:25:28.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "README.md",
-              "DocumentMoniker": "D:\\Github Desktop\\Repositories\\EInvoiceProcessor\\EInvoiceProcessor\\Models\\README.md",
-              "RelativeDocumentMoniker": "EInvoiceProcessor\\Models\\README.md",
-              "ToolTip": "D:\\Github Desktop\\Repositories\\EInvoiceProcessor\\EInvoiceProcessor\\Models\\README.md",
-              "RelativeToolTip": "EInvoiceProcessor\\Models\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-05-16T11:24:38.795Z",
+              "WhenOpened": "2025-05-16T11:56:22.965Z",
               "EditorCaption": ""
             },
             {
@@ -103,7 +69,7 @@
               "RelativeDocumentMoniker": "EInvoiceProcessor\\Program.cs",
               "ToolTip": "D:\\Github Desktop\\Repositories\\EInvoiceProcessor\\EInvoiceProcessor\\Program.cs",
               "RelativeToolTip": "EInvoiceProcessor\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T11:17:21.094Z",
               "EditorCaption": ""

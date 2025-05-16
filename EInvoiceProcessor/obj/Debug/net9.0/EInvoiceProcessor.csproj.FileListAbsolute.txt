@@ -16,3 +16,4 @@ D:\Github Desktop\Repositories\EInvoiceProcessor\EInvoiceProcessor\obj\Debug\net
 D:\Github Desktop\Repositories\EInvoiceProcessor\EInvoiceProcessor\obj\Debug\net9.0\EInvoiceProcessor.pdb
 D:\Github Desktop\Repositories\EInvoiceProcessor\EInvoiceProcessor\obj\Debug\net9.0\EInvoiceProcessor.genruntimeconfig.cache
 D:\Github Desktop\Repositories\EInvoiceProcessor\EInvoiceProcessor\obj\Debug\net9.0\ref\EInvoiceProcessor.dll
+D:\Github Desktop\Repositories\EInvoiceProcessor\EInvoiceProcessor\obj\Debug\net9.0\EInvoiceProcessor.sourcelink.json

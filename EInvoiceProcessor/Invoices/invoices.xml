@@ -1,0 +1,14 @@
+﻿<Invoices>
+	<Invoice id="1">
+		<ID>INV-001</ID>
+		<IssueDate>2025-05-01</IssueDate>
+		<Supplier>Firma A</Supplier>
+		<Total>1000.00</Total>
+	</Invoice>
+	<Invoice id="2">
+		<ID>INV-002</ID>
+		<IssueDate>2025-06-01</IssueDate>
+		<Supplier>Firma B</Supplier>
+		<Total>2000.00</Total>
+	</Invoice>
+</Invoices>
